@@ -1,5 +1,7 @@
 ## SCROLL INDICATOR PROGRESS BAR IN HTML5 ET CSS3
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un indicateur de progression du scroll sur la page en HTML5 et CSS3.
