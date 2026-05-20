@@ -18,7 +18,7 @@ Compatibilité des navigateurs :
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/scroll_indicator_progress_bar_in_css/
 
 ## Projet développé avec
 
